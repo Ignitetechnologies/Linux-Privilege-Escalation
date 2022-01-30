@@ -20,3 +20,5 @@ This cheatsheet is aimed at the OSCP aspirants to help them understand the vario
 10. [LD_Preload Privilege Escalation](https://www.hackingarticles.in/linux-privilege-escalation-using-ld_preload/)
 11. [Exploiting PATH Variable](https://www.hackingarticles.in/linux-privilege-escalation-using-path-variable/)
 12. [Python Library Hijacking](https://www.hackingarticles.in/linux-privilege-escalation-python-library-hijacking/)
+13. [Polkit (CVE 2021-3560)](https://www.hackingarticles.in/linux-privilege-escalation-polkit-cve-2021-3560/)
+
