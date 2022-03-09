@@ -21,7 +21,7 @@ This cheatsheet is aimed at the OSCP aspirants to help them understand the vario
 11. [Exploiting PATH Variable](https://www.hackingarticles.in/linux-privilege-escalation-using-path-variable/)
 12. [Python Library Hijacking](https://www.hackingarticles.in/linux-privilege-escalation-python-library-hijacking/)
 13. [Polkit (CVE 2021-3560)](https://www.hackingarticles.in/linux-privilege-escalation-polkit-cve-2021-3560/)
-14. [PwnKit (CVE 2021-4034))](https://www.hackingarticles.in/linux-privilege-escalation-pwnkit-cve-2021-4034/)
+14. [PwnKit (CVE 2021-4034)](https://www.hackingarticles.in/linux-privilege-escalation-pwnkit-cve-2021-4034/)
 15. [DirtyPipe (CVE 2022-0847)](https://www.hackingarticles.in/linux-privilege-escalation-dirtypipe-cve-2022-0847/)
 
 
