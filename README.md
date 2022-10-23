@@ -1,6 +1,6 @@
 # Linux Privilege Escalation Cheatsheet
 
-This cheatsheet is aimed at the OSCP aspirants to help them understand the various methods of Escalating Privilege on Linux based Machines and CTFs with examples. There are multiple ways to perform the same tasks. We have performed and compiled this list based on our experience. Please share this with your connections and direct queries and feedback to [Hacking Articles](https://twitter.com/hackinarticles).
+This cheatsheet is aimed at OSCP aspirants to help them understand the various methods of escalating privilege on Linux-based machines and CTFs with examples. There are multiple ways to perform the same task. We have performed and compiled this list based on our experience. Please share this with your connections and direct queries and feedback to [Hacking Articles](https://twitter.com/hackinarticles).
 
 
 [1.5]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/linked.png
